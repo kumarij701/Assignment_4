@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6d81af33-731c-46d1-b7b5-5bc39eca5f40": {
+      "ProjectGuid": "6d81af33-731c-46d1-b7b5-5bc39eca5f40",
+      "DisplayName": "Assignment_4",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c5e77e63-4172-4f45-ae78-301e80e329f5": {
+      "ProjectGuid": "c5e77e63-4172-4f45-ae78-301e80e329f5",
+      "DisplayName": "Exceptionfilterr",
+      "ColorIndex": 1
+    },
+    "ee67c056-3911-418e-8abe-cb3774b0639a": {
+      "ProjectGuid": "ee67c056-3911-418e-8abe-cb3774b0639a",
+      "DisplayName": "Assign_5",
+      "ColorIndex": 2
+    },
+    "08b1888d-83fe-4a21-bc39-9e2f52e63fb9": {
+      "ProjectGuid": "08b1888d-83fe-4a21-bc39-9e2f52e63fb9",
+      "DisplayName": "Assignment_5",
+      "ColorIndex": 3
+    },
+    "19d6c031-0cae-41e0-bf9c-46d7837d3c11": {
+      "ProjectGuid": "19d6c031-0cae-41e0-bf9c-46d7837d3c11",
+      "DisplayName": "Assign_5Pro",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

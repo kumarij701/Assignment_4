@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Assignment_4.Models.UserStory>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+         <li>@userStory.UserStoryName</li>
+         <li>@userStory.StoryOwner</li>
+         <li>@userStory.StoryPoints</li>
+         <li>@userStory.StoryDescription</li>
+*@
+@{
+}
+<h2>Data present in User Story Table</h2>
+<ul>
+    @foreach(var userStory in Model)
+    {     <ol>
+        <li>@userStory.UserStoryName</li>
+         <li>@userStory.UserStoryId</li>
+         <li>@userStory.StoryOwner</li>
+         <li>@userStory.StoryPoints</li>
+         <li>@userStory.StoryDescription</li>
+         </ol>
+         <br>
+         
+    }
+</ul>
